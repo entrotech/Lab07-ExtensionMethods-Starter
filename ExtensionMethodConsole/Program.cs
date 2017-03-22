@@ -20,7 +20,6 @@ namespace ExtensionMethodConsole
                 Console.WriteLine(s.Display());
             }
 
-
             Console.WriteLine("Press <Enter> to quit the application");
             Console.ReadLine();
         }
