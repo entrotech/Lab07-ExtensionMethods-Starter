@@ -14,6 +14,7 @@ namespace ExtensionMethodConsole
             Console.WriteLine("Extension Method Lab:");
             Console.WriteLine("\r\nPrint using foreach loop:");
 
+
             DomainObjectStore store = new DomainObjectStore();
             foreach(Show s in store.Shows)
             {
